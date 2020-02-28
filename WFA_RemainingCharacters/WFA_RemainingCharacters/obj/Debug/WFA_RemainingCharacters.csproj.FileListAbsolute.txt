@@ -1,0 +1,9 @@
+C:\Users\axl32\source\repos\WFA_RemainingCharacters\WFA_RemainingCharacters\bin\Debug\WFA_RemainingCharacters.exe.config
+C:\Users\axl32\source\repos\WFA_RemainingCharacters\WFA_RemainingCharacters\bin\Debug\WFA_RemainingCharacters.exe
+C:\Users\axl32\source\repos\WFA_RemainingCharacters\WFA_RemainingCharacters\bin\Debug\WFA_RemainingCharacters.pdb
+C:\Users\axl32\source\repos\WFA_RemainingCharacters\WFA_RemainingCharacters\obj\Debug\WFA_RemainingCharacters.csprojAssemblyReference.cache
+C:\Users\axl32\source\repos\WFA_RemainingCharacters\WFA_RemainingCharacters\obj\Debug\WFA_RemainingCharacters.Form1.resources
+C:\Users\axl32\source\repos\WFA_RemainingCharacters\WFA_RemainingCharacters\obj\Debug\WFA_RemainingCharacters.Properties.Resources.resources
+C:\Users\axl32\source\repos\WFA_RemainingCharacters\WFA_RemainingCharacters\obj\Debug\WFA_RemainingCharacters.csproj.GenerateResource.cache
+C:\Users\axl32\source\repos\WFA_RemainingCharacters\WFA_RemainingCharacters\obj\Debug\WFA_RemainingCharacters.exe
+C:\Users\axl32\source\repos\WFA_RemainingCharacters\WFA_RemainingCharacters\obj\Debug\WFA_RemainingCharacters.pdb

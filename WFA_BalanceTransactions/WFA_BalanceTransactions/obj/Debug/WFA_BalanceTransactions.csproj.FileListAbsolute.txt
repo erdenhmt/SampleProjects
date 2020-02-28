@@ -1,0 +1,9 @@
+C:\Users\axl32\source\repos\WFA_BalanceTransactions\WFA_BalanceTransactions\bin\Debug\WFA_BalanceTransactions.exe.config
+C:\Users\axl32\source\repos\WFA_BalanceTransactions\WFA_BalanceTransactions\bin\Debug\WFA_BalanceTransactions.exe
+C:\Users\axl32\source\repos\WFA_BalanceTransactions\WFA_BalanceTransactions\bin\Debug\WFA_BalanceTransactions.pdb
+C:\Users\axl32\source\repos\WFA_BalanceTransactions\WFA_BalanceTransactions\obj\Debug\WFA_BalanceTransactions.csprojAssemblyReference.cache
+C:\Users\axl32\source\repos\WFA_BalanceTransactions\WFA_BalanceTransactions\obj\Debug\WFA_BalanceTransactions.Form1.resources
+C:\Users\axl32\source\repos\WFA_BalanceTransactions\WFA_BalanceTransactions\obj\Debug\WFA_BalanceTransactions.Properties.Resources.resources
+C:\Users\axl32\source\repos\WFA_BalanceTransactions\WFA_BalanceTransactions\obj\Debug\WFA_BalanceTransactions.csproj.GenerateResource.cache
+C:\Users\axl32\source\repos\WFA_BalanceTransactions\WFA_BalanceTransactions\obj\Debug\WFA_BalanceTransactions.exe
+C:\Users\axl32\source\repos\WFA_BalanceTransactions\WFA_BalanceTransactions\obj\Debug\WFA_BalanceTransactions.pdb

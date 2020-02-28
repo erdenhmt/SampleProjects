@@ -1,0 +1,9 @@
+C:\Users\axl32\source\repos\WFA_Dice\WFA_Dice\bin\Debug\WFA_Dice.exe.config
+C:\Users\axl32\source\repos\WFA_Dice\WFA_Dice\bin\Debug\WFA_Dice.exe
+C:\Users\axl32\source\repos\WFA_Dice\WFA_Dice\bin\Debug\WFA_Dice.pdb
+C:\Users\axl32\source\repos\WFA_Dice\WFA_Dice\obj\Debug\WFA_Dice.csprojAssemblyReference.cache
+C:\Users\axl32\source\repos\WFA_Dice\WFA_Dice\obj\Debug\WFA_Dice.Form1.resources
+C:\Users\axl32\source\repos\WFA_Dice\WFA_Dice\obj\Debug\WFA_Dice.Properties.Resources.resources
+C:\Users\axl32\source\repos\WFA_Dice\WFA_Dice\obj\Debug\WFA_Dice.csproj.GenerateResource.cache
+C:\Users\axl32\source\repos\WFA_Dice\WFA_Dice\obj\Debug\WFA_Dice.exe
+C:\Users\axl32\source\repos\WFA_Dice\WFA_Dice\obj\Debug\WFA_Dice.pdb
