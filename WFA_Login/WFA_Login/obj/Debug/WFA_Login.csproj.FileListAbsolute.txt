@@ -1,0 +1,9 @@
+C:\Users\axl32\source\repos\WFA_Login\WFA_Login\bin\Debug\WFA_Login.exe.config
+C:\Users\axl32\source\repos\WFA_Login\WFA_Login\bin\Debug\WFA_Login.exe
+C:\Users\axl32\source\repos\WFA_Login\WFA_Login\bin\Debug\WFA_Login.pdb
+C:\Users\axl32\source\repos\WFA_Login\WFA_Login\obj\Debug\WFA_Login.csprojAssemblyReference.cache
+C:\Users\axl32\source\repos\WFA_Login\WFA_Login\obj\Debug\WFA_Login.Form1.resources
+C:\Users\axl32\source\repos\WFA_Login\WFA_Login\obj\Debug\WFA_Login.Properties.Resources.resources
+C:\Users\axl32\source\repos\WFA_Login\WFA_Login\obj\Debug\WFA_Login.csproj.GenerateResource.cache
+C:\Users\axl32\source\repos\WFA_Login\WFA_Login\obj\Debug\WFA_Login.exe
+C:\Users\axl32\source\repos\WFA_Login\WFA_Login\obj\Debug\WFA_Login.pdb
